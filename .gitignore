@@ -1,0 +1,14 @@
+*.json
+!sql/*.json
+docker-compose.yaml
+logs/
+plugins/
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
+*.egg-info/
+dist/
+.pytest_cache/
